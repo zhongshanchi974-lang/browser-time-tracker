@@ -5,6 +5,10 @@
 ## 必要なライブラリのインストール
 pip install psutil pywin32 matplotlib
 
+## ダウンロード方法
+git clone https://github.com/zhongshanchi974-lang/browser-time-tracker.git
+cd browser-time-tracker
+
 ## 実行方法
 python site_logger.py
 
