@@ -6,7 +6,7 @@
 pip install psutil pywin32 matplotlib
 
 ## 実行方法
-python monitor.py
+python site_logger.py
 
 ## 注意
 - Windows専用です
